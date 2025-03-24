@@ -1,4 +1,4 @@
-# library_management_system
+# Library_Management_System
 - A Java-based application to manage books in a library.
 - Features include adding, searching, editing, borrowing, reserving, and returning books.
 - Checks overdue penalties for late returns
